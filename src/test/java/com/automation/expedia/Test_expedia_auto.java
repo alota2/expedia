@@ -17,6 +17,10 @@ public class Test_expedia_auto {
 	  driver.findElement(By.cssSelector("a#tab-flight-tab")).click();
 	  driver.findElement(By.id("flight-origin")).sendKeys("NYC");
 	  driver.findElement(By.id("flight-destination")).sendKeys("Chicago");
+	  driver.findElement(By.id("flight-departing")).sendKeys("12/31/2015");
+	  driver.findElement(By.id("flight-returning")).sendKeys("01/07/2016");
+	  driver.findElement(By.id("search-button")).click();
+	 
 
 	
 
