@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.automation.expedia.expedia_auto">
+      <class name="com.automation.expedia.Test_expedia_auto">
         <methods>
           <include name="plantrip"/>
         </methods>
-      </class> <!-- com.automation.expedia.expedia_auto -->
+      </class> <!-- com.automation.expedia.Test_expedia_auto -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
