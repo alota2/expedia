@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7353" started-at="2015-12-11T00:57:03Z" finished-at="2015-12-11T00:57:10Z">
+  <suite name="Suite" duration-ms="34716" started-at="2015-12-12T07:49:53Z" finished-at="2015-12-12T07:50:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7353" started-at="2015-12-11T00:57:03Z" finished-at="2015-12-11T00:57:10Z">
+    <test name="Test" duration-ms="34716" started-at="2015-12-12T07:49:53Z" finished-at="2015-12-12T07:50:27Z">
       <class name="com.automation.expedia.Test_expedia_auto">
-        <test-method status="PASS" signature="plantrip()[pri:1, instance:com.automation.expedia.Test_expedia_auto@305ffe9e]" name="plantrip" duration-ms="7343" started-at="2015-12-10T19:57:03Z" finished-at="2015-12-10T19:57:10Z">
+        <test-method status="PASS" signature="plantrip()[pri:1, instance:com.automation.expedia.Test_expedia_auto@1fc391b]" name="plantrip" duration-ms="34448" started-at="2015-12-12T02:49:53Z" finished-at="2015-12-12T02:50:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- plantrip -->
       </class> <!-- com.automation.expedia.Test_expedia_auto -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
